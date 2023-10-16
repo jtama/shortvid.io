@@ -51,6 +51,7 @@ const run = async () => {
 			let remotionArgs = [
 				'remotion',
 				'render',
+				'remotion/index.tsx',
 				composition,
 				`out/${fileName}.mp4`,
 				`--props=${JSON.stringify(video)}`,
@@ -72,6 +73,7 @@ const run = async () => {
 			remotionArgs = [
 				'remotion',
 				'still',
+				'remotion/index.tsx',
 				composition,
 				`out/${fileName}.jpeg`,
 				`--props=${JSON.stringify(video)}`,

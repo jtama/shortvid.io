@@ -1,0 +1,30 @@
+[
+	{
+		"title": "Les supers pouvoir du package java.util.function",
+		"date": "16/11/2023",
+		"location": "Pastel 2",
+		"time": "12:00/12:40",
+		"speakers": [
+			{
+				"name": "Jérôme Tama",
+				"picture": "jta.png"
+			},
+			{
+				"name": "Damien Lucas",
+				"picture": "dluc.png"
+			}
+		]
+	},
+	{
+		"title": "Mais non, ce n'est pas une erreur de CORS",
+		"date": "16/10/2023",
+		"location": "Hémicylce",
+		"time": "14:00/14:15",
+		"speakers": [
+			{
+				"name": "Christophe Farges",
+				"picture": "cfa.png"
+			}
+		]
+	}
+]
